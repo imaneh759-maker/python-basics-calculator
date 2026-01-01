@@ -10,7 +10,7 @@ This is a simple Python calculator app that performs basic arithmetic operations
 - Modulus
 
 ## How to use
-1. Run the `calculator.py` file in Python.
+1. Run the `pythoncalculator.py` file in Python.
 2. Enter the first number.
 3. Enter the second number.
 4. See the results.
